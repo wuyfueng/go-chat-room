@@ -1,2 +1,2 @@
 # go-chat-room
-研究下tcpsoct
+研究下tcp socket
